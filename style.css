@@ -4,7 +4,7 @@
 :root {
     --brown: #412411;
     --blue: #6495ED;
-    --green: #228B22;
+    --purple: #D0A2F7;
     --orchid: #BA55D3;
     --crimson: #DC143C;
     /* This is an example */
@@ -23,7 +23,7 @@
 }
 
 body {
-    background-color: var(--green);
+    background-color: var(--purple);
     /* the bg color would be the same as your 
         quote section bg color */
 }
@@ -135,7 +135,13 @@ p {
 
 
 /***  FOOTER ***/
-footer {}
+footer {
+    font-size: 20px;
+    color: whitesmoke;
+    text-align: center;
+    background-color: black;
+    height: 50px;
+}
 
 
 
@@ -147,3 +153,30 @@ footer {}
 /**************************/
 /* Use CSS from previous CSS to 
       add and edit here */
+
+.landingpage2 {
+    background-image: url(img/Dog.png);
+    min-height: 550px;
+    width: 100%;
+
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+
+    position: absolute;
+    z-index: -1;
+}
+
+.quoteSection2 {
+    background: var(--crimson);
+    margin-top: 170px;
+    padding: 35px 20px;
+    text-align: center;
+    justify-content: center;
+    display: flex;
+}
+
+.quoteSection2 img {
+    height: 250px;
+}
