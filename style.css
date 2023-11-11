@@ -86,7 +86,7 @@ header h1 {
 /***  QUOTE SECTION ***/
 .quoteSection {
     background: var(--crimson);
-    margin-top: 170px;
+    margin-top: 161px;
     padding: 35px 20px;
     text-align: center;
 }
@@ -140,7 +140,12 @@ footer {
     color: whitesmoke;
     text-align: center;
     background-color: black;
-    height: 50px;
+    /* padding-top: 20px;
+    padding-bottom: 30px;
+    padding-left: 0%;
+    padding-right: 0%; */
+    padding: 20px 0px 30px;
+    margin-top: 20px;
 }
 
 
@@ -170,7 +175,7 @@ footer {
 
 .quoteSection2 {
     background: var(--crimson);
-    margin-top: 170px;
+    margin-top: 161px;
     padding: 35px 20px;
     text-align: center;
     justify-content: center;
