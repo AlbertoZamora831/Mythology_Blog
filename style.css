@@ -97,10 +97,9 @@ q {
     font-size: 20px;
 }
 
-
 /***  CARDS ***/
 .column img {
-    height: 100px;
+    height: 150px;
     width: 230px;
 }
 
@@ -184,4 +183,10 @@ footer {
 
 .quoteSection2 img {
     height: 250px;
+}
+
+.quoteSection2 p {
+    color: #B0E0E6;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
 }
