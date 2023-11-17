@@ -1,5 +1,7 @@
 Mythology_Blog
 
+This blog talks about how intresting mythology can be and if you don't like it then that's fine but don't complain about it to others. Thank you
+
 Check out my website: https://albertozamora831.github.io/Mythology_Blog/
 
 By Alberto Zamora
